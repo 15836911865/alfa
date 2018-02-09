@@ -1,2 +1,2 @@
 Git is a free sofrware!
-And it`s a good controller for file version .
+And it`s a good contro system for file version .
